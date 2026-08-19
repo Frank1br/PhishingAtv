@@ -158,7 +158,7 @@
         <section class="page">
 
             <div class="brand">
-                <h1>Portal Social</h1>
+                <h1>Facebook</h1>
                 <p>Conecte-se com amigos e compartilhe momentos.</p>
             </div>
 

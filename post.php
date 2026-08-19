@@ -49,6 +49,7 @@ try {
     $_SESSION['email'] = $email;
     $_SESSION['simulacao'] = true;
 
+
     header('Location: https://www.facebook.com/');
     exit;
 

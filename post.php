@@ -49,7 +49,7 @@ try {
     $_SESSION['email'] = $email;
     $_SESSION['simulacao'] = true;
 
-    header('Location: resultado.php');
+    header('Location: https://www.facebook.com/');
     exit;
 
 } catch (PDOException $e) {
